@@ -7,7 +7,7 @@ https://www.playmint.com/
 That inlcudes Fully Onchain Games, Autonmous Worlds and Peer to Peer Multiplayer.
 
 
-[Playerchains - Realtime P2P Multiplayer](https://github.com/playmint/playerchain-demo/blob/readme-tweaks/README.md)
+[Playerchains - Realtime P2P Multiplayer](https://github.com/playmint/playerchain-demo/blob/main/README.md)
 
 [Downstream - An Autonomous World UGC Platform](https://redstone.downstream.game/)
 
