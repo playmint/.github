@@ -2,10 +2,13 @@
 
 We're making games and supporting technologies on the decentralised stack.
 
-That inlcudes Fully Onchain Games, Autonmous Worlds and Peer to Peer Multiplayer.
-
 https://www.playmint.com/
 
-https://github.com/playmint/playerchain-demo
-https://redstone.downstream.game/
-https://thecrypt.game/
+That inlcudes Fully Onchain Games, Autonmous Worlds and Peer to Peer Multiplayer.
+
+
+[Playerchains - Realtime P2P Multiplayer](https://github.com/playmint/playerchain-demo)
+
+[Downstream - An Autonomous World UGC Platform](https://redstone.downstream.game/)
+
+[The Crypt - A Lootverse game on Ethereum mainnet](https://thecrypt.game/)
